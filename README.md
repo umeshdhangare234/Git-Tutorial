@@ -15,3 +15,4 @@ $ git remote add origin <REMOTE_URL>
 $ git push origin <branch_name>
 
 
+[link text itself]: http://www.reddit.com
