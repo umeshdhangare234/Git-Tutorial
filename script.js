@@ -5,7 +5,7 @@ func1 = ()=>{
 
 func1();
 
-
+var message = "food";
 func2 = (message)=>{
     console.log("Got the ",message);
     
