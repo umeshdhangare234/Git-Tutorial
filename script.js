@@ -7,8 +7,7 @@ func1();
 
 var message = "food";
 func2 = (message)=>{
-    console.log("Got the ",message);
-    
+    console.log("Got the "+ this.message);
 }
 
 func2();
