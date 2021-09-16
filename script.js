@@ -4,3 +4,11 @@ func1 = ()=>{
 }
 
 func1();
+
+
+func2 = (message)=>{
+    console.log("Got the ",message);
+    
+}
+
+func2();
