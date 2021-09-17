@@ -27,6 +27,13 @@ __This will also be bold__
 
 _You **can** combine them_
 
+# This is an h1 tag
+## This is an h2 tag
+### This is an h3 tag
+#### This is an h4 tag
+##### This is an h5 tag
+###### This is an h6 tag
+	
 # Adding local repository(repo) to the remote repository.
 
 $ git add .
