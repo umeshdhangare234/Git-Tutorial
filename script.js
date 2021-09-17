@@ -3,7 +3,7 @@ func4 = ()=> {
 }
 
 
-func1();
+
 
 var message = "food";
 func2 = (message)=>{
