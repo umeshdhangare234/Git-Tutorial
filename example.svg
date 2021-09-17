@@ -4,7 +4,7 @@
             <style>
             h1 {
                 color: red;
-                animation: mymove 2s infinite;
+                animation: mymove 10s infinite;
             }
 
             @keyframes mymove {
@@ -17,7 +17,7 @@
                 }
             }
             </style>
-            <h1>Welcome To DOM</h1>
+            <h1>Hello Buddy!</h1>
         </div>
     </foreignObject>
 </svg>
