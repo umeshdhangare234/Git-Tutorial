@@ -111,6 +111,4 @@ ipsum dolor sit amet...'
 
 # Badges
 
-<img src="https://img.shields.io/amo/stars/gree">
-<img src="https://img.shields.io/badge/rating-5%2F5-green">
-<img src="https://img.shields.io/steam/subscriptions/1521428436?logo=subscription&logoColor=white">
+<img src="https://img.shields.io/amo/stars/gree"><img src="https://img.shields.io/badge/rating-5%2F5-green"><img src="https://img.shields.io/steam/subscriptions/1521428436?logo=subscription&logoColor=white">
