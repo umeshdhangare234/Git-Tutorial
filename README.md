@@ -17,10 +17,11 @@ $ git push origin <branch_name>
 
 # Content
 
-[Index](../master/index.html)
+Index File  : [Index](../master/index.html)
 
-[CSS](../master/style.css)
+Style File  : [CSS](../master/style.css)
 
-[Scirpt](../master/script.js)
+Script File : [Script](../master/script.js)
+
 
 
