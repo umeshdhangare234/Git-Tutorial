@@ -1,7 +1,7 @@
-func1 = ()=>{
-    console.log("Hello");
-    window.alert("Be Aware of Dogs");
+func4 = ()=> {
+    console.log("Hello again");
 }
+
 
 func1();
 
@@ -18,3 +18,6 @@ func3 = ()=>{
 }
 
 func3();
+
+func4();
+
