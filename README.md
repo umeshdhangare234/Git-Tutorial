@@ -6,14 +6,14 @@ This tutorial is all about git and git uses.
  
 As Descarte said:
 
-> If you want to be certain about things, firstly we have to doubt evrything.
+> If you want to be certain about things, firstly you have to doubt evrything.
 
 1. Item 1
 1. Item 2
 1. Item 3
    1. Item 3a
    1. Item 3b
-   
+
 * Item 1
 * Item 2
   * Item 2a
@@ -84,7 +84,7 @@ There are many variations of passages of Lorem Ipsum available, but the majority
 	Start with 'Lorem
 ipsum dolor sit amet...'
 
-# <h1 color="red"> Files </h1>
+# Files 
 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
@@ -108,3 +108,9 @@ There are many variations of passages of Lorem Ipsum available, but the majority
 	Start with 'Lorem
 ipsum dolor sit amet...'
 
+
+# Badges
+
+<img src="https://img.shields.io/amo/stars/gree">
+<img src="https://img.shields.io/badge/rating-5%2F5-green">
+<img src="https://img.shields.io/steam/subscriptions/1521428436?logo=subscription&logoColor=white">
