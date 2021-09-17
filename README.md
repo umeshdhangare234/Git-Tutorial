@@ -15,9 +15,12 @@ $ git remote add origin <REMOTE_URL>
 $ git push origin <branch_name>
 
 
-
+# Content
 
 [Index](../master/index.html)
+
 [CSS](../master/style.css)
+
+[Scirpt](../master/script.js)
 
 
