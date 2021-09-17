@@ -2,6 +2,8 @@
 
 This tutorial is all about git and git uses.
 
+Visit  : [visit the link](https://umeshdhangare234.github.io/Git-Tutorial/)
+
 # Thought
  
 As Descarte said:
