@@ -11,3 +11,10 @@ func2 = (message)=>{
 }
 
 func2();
+
+
+func3 = ()=>{
+    window.alert("You are welcome");
+}
+
+func3();
