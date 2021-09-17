@@ -1,13 +1,5 @@
-func1 = ()=>{
-    console.log("Hello");
-    window.alert("Be Aware of Dogs");
+func4 = ()=> {
+    console.log("Hello again");
 }
 
-func1();
-
-var message = "food";
-func2 = (message)=>{
-    console.log("Got the "+ this.message);
-}
-
-func2();
+func4();
