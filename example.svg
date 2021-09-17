@@ -18,6 +18,7 @@
             }
             </style>
             <h1>Hello Buddy!</h1>
+            <p> Welcome to DOM </p>
         </div>
     </foreignObject>
 </svg>
